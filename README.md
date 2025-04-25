@@ -21,4 +21,5 @@ This is a simple and elegant web application that allows you to search for any G
 - GitHub REST API
 
 ## 📸 Preview
+![Image](https://github.com/user-attachments/assets/c2d4b21c-9bff-4e4b-abbc-f6015cabe7f8)
 
